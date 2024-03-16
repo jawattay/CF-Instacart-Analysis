@@ -42,6 +42,4 @@ Instacart Customers
 
 ## Deliverables
 
-Final Report below, please access the [Instacart Basket Analysis Folder](C:\Users\Josh Wattay\OneDrive\Documents\GitHub\CF-Instacart-Analysis\Instacart Basket Analysis) to access data, visuals, scripts, and other deliverables.
-
 [Final Report PDF](https://github.com/jawattay/CF-Instacart-Analysis/files/14625296/Achievement.4.Final.Report.-.Josh.Wattay.pdf)
