@@ -32,11 +32,16 @@ As an analyst for Instacart, an online grocery store that operates through an ap
     
 - What differences can you ﬁnd in ordering habits of different customer proﬁles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
 
-## Data Sets
+## Stakeholders
 
+Vice President of Marketing
+
+Senior Vice President of Sales
+
+Instacart Customers
 
 ## Deliverables
 
-Final Report below, please access the Instacart Basket Analysis folder to access data, visuals, scripts, and other deliverables.
+Final Report below, please access the [Instacart Basket Analysis Folder](C:\Users\Josh Wattay\OneDrive\Documents\GitHub\CF-Instacart-Analysis\Instacart Basket Analysis) to access data, visuals, scripts, and other deliverables.
 
 [Final Report PDF](https://github.com/jawattay/CF-Instacart-Analysis/files/14625296/Achievement.4.Final.Report.-.Josh.Wattay.pdf)
